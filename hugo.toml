@@ -1,0 +1,4 @@
+baseURL = 'https://homelab.it.com/'
+languageCode = 'en-us'
+title = 'HomeLab.it.com'
+theme = 'beautifulhugo'
